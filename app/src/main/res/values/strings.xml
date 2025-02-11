@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StreamSDKChatApp</string>
+
+    <string name="api_key">288eau73q3au</string>
+
+    <!--userId: likhit-->
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibGlraGl0In0._s6nHnSMEcfF7_XywVG5jOSmk3YMibJ7nzzvoKIcj4U</string>
+
+</resources>
